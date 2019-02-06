@@ -63,7 +63,7 @@
 		<dc:description id="description">Set in colonial America, &lt;i&gt;The Scarlet Letter&lt;/i&gt; explores guilt, revenge, and redemption through the narration ofthe life of Hester Prynne, who conceives a child during an affair.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Considered Nathaniel Hawthorne's “masterwork,” &lt;i&gt;The Scarlet Letter&lt;/i&gt; is a historical fiction novel set in coloniel America. This novel explores guilt, revenge, and redemption through the narration of the life of Hester Prynne, who conceives a child during an affair. She is shunned for her sins and must find a way to find a way to live with this burden.&lt;/p&gt;
+			&lt;p&gt;Considered Nathaniel Hawthorne’s “masterwork,” &lt;i&gt;The Scarlet Letter&lt;/i&gt; is a historical fiction novel set in coloniel America. This novel explores guilt, revenge, and redemption through the narration of the life of Hester Prynne, who conceives a child during an affair. She is shunned for her sins and must find a way to find a way to live with this burden.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
